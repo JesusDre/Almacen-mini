@@ -14,10 +14,6 @@ Este proyecto consiste en un sistema sencillo de almacén que permite:
 * Eliminar registros
 
 Además, incluye una API REST que expone estos datos para su consumo desde aplicaciones externas.
-
-<img src="assets/demo.png" width="600">
-![Demo](assets/demo.png)
-
 ---
 
 ##  Objetivo del proyecto
